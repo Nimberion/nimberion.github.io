@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.36b356d5089e4566ec052913ded46288.js"
+  "/precache-manifest.337a23ce1643b83708b551b5df00614a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cantabo-courier"});
